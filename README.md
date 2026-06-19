@@ -63,11 +63,7 @@ The Autonomous Sanitization Robot is an ESP32-based intelligent robotic system d
 - Internet of Things (IoT)
 - Automation
 - Sensor Integration
-
----
-
-## 📷 Project Images
-(Add your robot images here)
+ 
 
 ---
 
